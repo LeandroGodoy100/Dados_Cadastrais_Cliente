@@ -1,0 +1,14 @@
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\bin\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.exe
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\bin\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.deps.json
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\bin\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.runtimeconfig.json
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\bin\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.runtimeconfig.dev.json
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\bin\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.dll
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\bin\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.pdb
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\obj\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.csproj.AssemblyReference.cache
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\obj\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\obj\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.AssemblyInfoInputs.cache
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\obj\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.AssemblyInfo.cs
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\obj\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\obj\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.dll
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\obj\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.pdb
+C:\Users\Leandro\source\repos\Dados_Cadastrais_Cliente\Dados_Cadastrais_Cliente\obj\Debug\netcoreapp3.1\Dados_Cadastrais_Cliente.genruntimeconfig.cache
